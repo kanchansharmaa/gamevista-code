@@ -1,0 +1,8 @@
+.bg {
+    height: 100vh;            /* Full view height */
+    width: 100vw;             /* Full view width */
+    background-position: center;  /* Center the image */
+    background-repeat:repeat-y; /* Do not repeat the image */
+    background-size: cover;       /* Cover the entire viewport */
+  }
+  
